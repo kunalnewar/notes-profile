@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AccountDescription</key>
+			<string>Mindlink Notes</string>
+			<key>AccountType</key>
+			<string>com.apple.account.iCloud</string>
+			<key>PayloadDescription</key>
+			<string>Adds iCloud account for syncing Notes only.</string>
+			<key>PayloadDisplayName</key>
+			<string>iCloud Notes Account</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.kunal.notes.icloudaccount</string>
+			<key>PayloadOrganization</key>
+			<string>KunalMentalism</string>
+			<key>PayloadRemovalDisallowed</key>
+			<false/>
+			<key>PayloadType</key>
+			<string>com.apple.account.iCloud</string>
+			<key>PayloadUUID</key>
+			<string>62366d2e-57da-42c2-ada0-792b877b080c</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Services</key>
+			<array>
+				<string>com.apple.notes</string>
+			</array>
+			<key>Username</key>
+			<string>mentalist.kunalnewar@gmail.com</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Automatically configures Notes-only iCloud sync for mentalism.</string>
+	<key>PayloadDisplayName</key>
+	<string>Mindlink Notes Sync</string>
+	<key>PayloadIdentifier</key>
+	<string>com.kunal.notesync.profile</string>
+	<key>PayloadOrganization</key>
+	<string>KunalMentalism</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0de7b7df-9a7f-4c95-a4f9-7d039161150f</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
